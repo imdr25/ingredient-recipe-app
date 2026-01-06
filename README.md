@@ -11,3 +11,7 @@ A simple cooking app where users list the ingredients they have and receive reci
 
 ## Goal
 Start with the most basic version to validate the idea before adding advanced features.
+## Future Features
+- Nutrition information per serving
+- Fridge photo upload to detect ingredients
+- Smarter AI filtering
